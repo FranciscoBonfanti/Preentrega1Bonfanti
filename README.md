@@ -1,4 +1,10 @@
-<h1 style="text-align: center;"><u>Preentrega 1 CODERHOUSE</u></h1>
+<table>
+  <tr>
+    <td align="center">
+      <h1><u>Preentrega 1 CODERHOUSE</u></h1>
+    </td>
+  </tr>
+</table>
 <hr>
 <h2>En éste proyecto realizaré una aplicación web donde se pueda <br>
   realizar la compra de entradas, visualizar los eventos disponebles, comprar <br>
