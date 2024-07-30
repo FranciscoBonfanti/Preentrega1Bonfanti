@@ -76,5 +76,4 @@ if (costoTotal > 0) {
     alert("Primero debe realizar la compra");
 }
 
-
 //? FIN ALGORITMO DE CICLO
