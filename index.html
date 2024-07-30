@@ -7,19 +7,22 @@
     <link rel="stylesheet" href="./css/main.css">
 </head>
 <body>
-    <h1 class="h1_index">Entrega 1 Javascript</h1>
-    <!--Boton de comprar entradas-->
+    <!--Título-->
+    <h1 class="h1_index">Preentrega 1 Javascript</h1>
+    <!--Compra tus entradas-->
     <div class="comprar_entradas">
         <h2>Compra tus entradas</h2>
+        <p>Entradas disponibles: 6</p>
         <button onclick="verificarDisponibilidad()">Comprar Entradas</button>
     </div>
-
+    <!--Calcula costo total de entradas-->
     <div class="calcular_costos">
-        <h2>Calcular Costo Total</h2>
-        <button onclick="calcularCostoTotal()">Calcular Costo Total</button>
-        <p id="resultadoCosto"></p>
+        <p>Metallica = $50.000</p>
+        <p>Megadeth = $30.000</p>
+        <p>Green Day = $25.000</p>
+        <p>Slayer = $20.000</p>
+        <div id="resultadoCosto" class="contenedor_resultadoCosto"></div>
     </div>
-
     <!--link del archivo JS-->
     <script src="./js/main.js"></script>
 </body>
